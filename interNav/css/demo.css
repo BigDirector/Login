@@ -1,0 +1,30 @@
+body{background-color: #ebebeb;}
+.bg-top{
+	width: 100%;height: 400px;background-color: #008EAD;text-align: center;
+}
+.bg-top p{font-size: 10em;color: ghostwhite;padding-top: 50px;text-shadow: 3px 3px 3px 3px #A7A9AC;}
+#log{width:400px;background-color: white;text-align: center;
+     margin: 0 auto;margin-top:-150px;padding: 30px 0 20px 0;
+     }
+#log input{margin-bottom: 10px;margin-top: 10px;
+           width: 70%;height: 30px;padding: 0 0 0 30px;border:1px solid #D4D4D4;border-radius: 2px;}
+.log-bottom{width: 70%;margin: 0 auto;margin-top: 20px;border-top: 1px solid #ebebeb;
+            line-height: 40px;padding: 10px;
+            }
+.log-bottom a{color: #CCCCCC;}
+.log-bottom>a{float: left;}
+.log-bottom span{float: right;}
+.log-bottom:after{content: '';clear: both;display: block;}
+.log-bottom span a:nth-of-type(2){background-color: #008EAD;padding: 10px;color: white;border-radius: 2px;}
+label{position: relative;}
+.icon{font-family: 'icon';position: absolute;left: 10px;top: 0px;color:#A7A9AC;font-size: 1.2em;}
+
+@font-face {
+	font-family:'icon';
+	src: url(../fontIcon/foundation-icons.svg);
+	src: url(../fontIcon/foundation-icons.ttf);
+	src: url(../fontIcon/foundation-icons.eot);
+	src: url(../fontIcon/foundation-icons.woff);
+}
+
+/*my fontiocn*/
