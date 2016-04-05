@@ -1,0 +1,26 @@
+body{text-align: center;background-color:gainsboro;
+ -webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;}
+a{color: black;}
+
+.logo{margin: 10px auto;}
+.logo img{width: 5em;}
+
+.reg{width: 400px;margin: 0 auto;padding: 20px 10px;background-color:rgba(255,255,255,.98);box-shadow: 1px 1px 10px 1px darkgray;}
+.reg-header{border-bottom: 1px solid #333333;padding: 20px;text-align: left;}
+
+.reg-input input{width: 300px;height: 20px;padding: 5px;border: 1px solid whitesmoke;}
+.reg-input li{margin: 20px auto;}
+.reg-btn{width:310px;height:30px;margin: 20px auto;border: none;
+         background-color:orange;color: white;}
+
+
+.log{margin: 20px;font-size: 1.2em;}
+.bg-font{position: absolute;font-size: 25em;z-index: -2;color:lightsteelblue;}
+
+
+/*整体使用的是固定布局，行间居中的样式，整理实现无难度，一颗心*/

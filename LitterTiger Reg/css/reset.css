@@ -1,0 +1,32 @@
+﻿/*reset strat*/
+body{line-height:1;color:#333;font-size: 12px;background:white;font-family: "微软雅黑";}
+input,textarea,select{font--size:100%;}
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,form{margin:0;}
+h4,h5,h6{ font-size:1em;}
+ul,ol{ padding-left:0; list-style-type:none;}
+a img{border:0;} img{border:0;}
+input,select{ vertical-align:middle;}
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,a
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video
+{margin:0;padding:0;border:0;outline:0;vertical-align:baseline;background:transparent;}
+article,aside,canvas,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section,summary {display:block;}
+audio, canvas, progress, video { display: inline-block; vertical-align: baseline; }
+button, input, optgroup, select, textarea { color: inherit; font: inherit; margin: 0; }
+button { overflow: visible; }
+p{ list-style:none; } 
+a{ text-decoration: none; }
+
+*:focus{outline:none;outline-style:none;}
+/*reset end*/
+
